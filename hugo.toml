@@ -1,0 +1,28 @@
+baseURL = 'https://Trichellsons.github.io/'
+locale = 'en-us'
+title = 'About Trichell & Sons Pressure Washing'
+theme = 'hugo-bootstrap-theme'
+themesdir = 'node_modules/@filipecarneiro'
+copyright = "©2026 Trichell & Sons, LLC"
+description = "Trichell & Sons Pressure Washing serves the region of Arkansas near Arkadelphia. Use this site to learn about our services and to schedule appointments."
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.footer]]
+    name = 'Attributions'
+    pageRef = '/legal/attributions'
+    weight = 20
+  [[menus.footer]]
+    name = 'Disclaimer'
+    pageRef = '/legal/disclaimer'
+    weight = 30
+  [[menus.footer]]
+    name = 'Privacy Notice'
+    pageRef = '/legal/privacy'
+    weight = 40
+  [[menus.footer]]
+    name = 'Terms of Use'
+    pageRef = '/legal/terms'
+    weight = 50
