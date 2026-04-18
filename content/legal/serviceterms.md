@@ -7,6 +7,6 @@ images: ["serviceterms.jpg"]
 keywords: ["serviceterms"]
 ---
 
-# Serviceterms
+# Terms of Service
 
-{{< img src="serviceterms.jpg" alt="Serviceterms" caption="Serviceterms" class="wide" >}}
+
