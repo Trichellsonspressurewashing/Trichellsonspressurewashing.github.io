@@ -2,6 +2,7 @@
 date = '2026-04-16T17:29:46-05:00'
 draft = false
 title = 'About'
+description = 'At Trichell & Sons Pressure Washing, our mission is to provide top-quality **power washing and pressure washing services in Clark County, AR** and surrounding areas. We are committed to helping homeowners, businesses, and agricultural operations maintain clean, safe, and attractive properties.'
 +++
 # About Us
 
