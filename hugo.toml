@@ -1,4 +1,4 @@
-baseURL = 'https://Trichellsons.github.io/'
+baseURL = 'https://trichellsonspressurewashing.github.io/Trichellsons.github.io/'
 locale = 'en-us'
 title = 'About Trichell & Sons Pressure Washing'
 theme = 'hugo-bootstrap-theme'
