@@ -5,6 +5,9 @@ theme = 'hugo-bootstrap-theme'
 themesdir = 'node_modules/@filipecarneiro'
 copyright = "©2026 Trichell & Sons, LLC"
 description = "Trichell & Sons Pressure Washing serves the region of Arkansas near Arkadelphia. Use this site to learn about our services and to schedule appointments."
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 [menus]
   [[menus.main]]
     name = 'Home'
