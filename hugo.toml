@@ -1,6 +1,6 @@
 baseURL = 'https://trichellsonspressurewashing.github.io/'
 locale = 'en-us'
-title = 'About Trichell & Sons Pressure Washing'
+title = 'Trichell & Sons Pressure Washing'
 theme = 'hugo-bootstrap-theme'
 themesdir = 'node_modules/@filipecarneiro'
 copyright = "©2026 Trichell & Sons, LLC"
@@ -13,6 +13,42 @@ description = "Trichell & Sons Pressure Washing serves the region of Arkansas ne
     name = 'Home'
     pageRef = '/'
     weight = 10
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+[[menus.main]]
+    name = 'Services'
+    pageRef = '/services'
+    weight = 20
+[[menus.main]]
+    name = 'Booking'
+    pageRef = '/Booking'
+    weight = 30
+[[menus.main]]
+    name = 'FAQ'
+    pageRef = '/faq'
+    weight = 40
+[[menus.main]]
+    name = 'Blog'
+    pageRef = '/blog'
+    weight = 50
+[[menus.main]]
+    name = 'Contact Us'
+    pageRef = '/contactus'
+    weight = 80
+[[menus.main]]
+    name = 'About Us'
+    pageRef = '/about'
+    weight = 90
   [[menus.footer]]
     name = 'Attributions'
     pageRef = '/legal/attributions'
